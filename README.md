@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @younglordeisen
-- 👀 I’m currently the front-end developer for Skybox Recordings L.L.C., The Wildflower Portfolio L.L.C., and the Young Lords Haus
-- 🌱 I’m currently learning back-end development to further my webpage and app development skills, and I take hours out of the week to sharpen my skills on my sites.
-- 💞️ I’m looking to collaborate on visual, gaming and animated projects, I am professionally an audio specialist and can compose music, edit and engineer audio as well as record for multiple instruments!
+- 👀 I’m actively a Business & Tech Consultant providing a wide range of expertise and services alike for companies, local/state/federal governments across the world, and for individuals who feel stumped within their projects.
+- 🌱 I’m currently learning how to implement all of my various skills together to help passion projects reach new heights within the tech space, sharing my contributions here.
+- 💞️ I’m also looking to collaborate on visual, gaming and animated projects, I am professionally an audio specialist and can compose music, edit and engineer audio as well as record for multiple instruments!
 - 📫 How to reach me ...
-        younglordeisen@gmail.com, younglordsks@gmail.com or younglordshaus@gmail.com 
+        TBA and TBD determined soon!
 
 <!---
 younglordeisen/younglordeisen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
