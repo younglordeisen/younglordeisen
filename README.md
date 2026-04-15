@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @younglordeisen
-- 👀 I’m actively a Business & Tech Consultant providing a wide range of expertise and services alike for companies, local/state/federal governments across the world, and for individuals who feel stumped within their projects.
+- 👋 Greetings everyone, I’m @younglordeisen, also known as Lord Skyzen to others. 
+- 👀 I am a Business & Tech Consultant providing a wide range of expertise and services alike for companies, local/state/federal governments across the world, and for individuals who feel stumped within their projects.
 - 🌱 I’m currently learning how to implement all of my various skills together to help passion projects reach new heights within the tech space, sharing my contributions here.
 - 💞️ I’m also looking to collaborate on visual, gaming and animated projects, I am professionally an audio specialist and can compose music, edit and engineer audio as well as record for multiple instruments!
 - 📫 How to reach me ...
