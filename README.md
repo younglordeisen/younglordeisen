@@ -10,15 +10,17 @@
 
 ### About
 
-I work self-directed across a wide range of technical *and* creative disciplines rather than staying in one lane — AI/ML infrastructure and compute architecture, full-stack web/software development, networking and systems administration, and 10 years of professional music composition, arrangement, and production alongside it. Most of the technical work lives on a large multi-campus build I design and manage end-to-end: everything from server racks to studio audio networks to building-level automation.
+I work self-directed across a wide range of technical *and* creative disciplines, rather than staying in one lane — AI/ML infrastructure and compute architecture, full-stack web/software development, networking and systems administration, and 10 years of professional music composition, arrangement, and production alongside it. Most of the technical work lives on a large multi-campus build I design and manage end-to-end: everything from server racks to studio audio networks to building-level automation. 
 
-The goal isn't to keep these separate. It's to combine deep technical consulting capability with real creative-industry production experience into one package — a consultant (and eventually a firm) that can walk into a business or government engagement and cover both the systems and the creative/production side without handing it off to someone else.
+Before embarking this new journey, I found myself managing the responsibilities and roles of a Project Manager, Systems Designer and Consultant within both fields while working in smaller positions as a Producer, Composer or within lower Management- with both fields calling for me to "climb the ladder" separately in order to attain the position that reflects these responsibilities.
+
+My goal isn't to keep these separate. It's to combine deep technical consulting capability with real creative-industry production experience into one package — a consultant (and eventually a firm) that can walk into a business or government engagement and cover both the systems and the creative/production side without handing it off to someone else.
 
 ### What I'm building
 
 🚧 **A multi-discipline tech consulting firm — name TBD, launching soon.**
 
-The plan is Business & Tech consulting spanning:
+The plan is Multi-Faceted Consulting spanning:
 
 - Web Development
 - Software / Backend Development
@@ -27,6 +29,9 @@ The plan is Business & Tech consulting spanning:
 - Machine Learning Engineering
 - Mobile App Development
 - Game Development
+- Creative Direction & Implementation
+- Concept Design, Deployment and Development
+  
 
 Early focus is going deep on **Backend/Software Dev, Database & SysAdmin, and Web Dev + UI/UX** — with an eye toward government and enterprise contracts, so security, accessibility, and compliance-minded engineering are baked in from the start rather than bolted on later. The creative/production background rounds the firm out further, aiming to house future consultants across multiple disciplines for both business and government clients.
 
@@ -90,8 +95,8 @@ Early focus is going deep on **Backend/Software Dev, Database & SysAdmin, and We
 ### Currently
 
 - 🏗️ Designing and building out a large-scale multi-campus infrastructure project (network, compute, AV, and building automation) — details coming as pieces are finished
-- 🧠 Laying the technical and business foundation for the consulting firm above
-- 🎼 Continuing production work while building out the firm's practice areas
+- 🧠 Laying the technical, business and creative foundation for the consulting firm above
+- 🎼 Pausing production work while building out the firm's practice areas
 
 ---
 
